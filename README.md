@@ -1,2 +1,2 @@
 # KashifAhmad-dsa
-This repisoteries Contain the practice question of dsa which basizcally we try to solve
+This reposoteries Contain the practice question of dsa which basizcally we try to solve
