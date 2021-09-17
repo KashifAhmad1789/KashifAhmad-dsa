@@ -37,6 +37,9 @@ void print(node*head){
         head = head->next;
     }
 }
+
+
+// Mid Point
 node *midPointLinkedList(node*head){
     if(head==NULL or head->next==NULL){
         return head;
